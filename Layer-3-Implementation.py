@@ -8,10 +8,6 @@ import pickle
 
 '''---------------------------------------------------------------------
 				Go Back N Protocol Implementation
-		
-		This Project is by: Sean Santarossa 	  - 104302998
-							Dexter Van Vlaanderen - 104215003
-							Jacob Weninger		  - 104226319
 -------------------------------------------------------------------------
 
 					  Client Code
